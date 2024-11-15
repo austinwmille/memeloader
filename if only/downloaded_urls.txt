@@ -1,0 +1,2 @@
+this will contain an up to date list of all urls that the script has used
+
